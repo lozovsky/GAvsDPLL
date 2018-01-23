@@ -2,6 +2,9 @@
 \usepackage{polski}
 \usepackage[utf8]{inputenc}
 \usepackage{amsthm}
+\usepackage{listings}
+\usepackage{hyperref}
+
 
 \newtheoremstyle{note}% style name 
 {2ex}% above space 
@@ -22,6 +25,7 @@
 \large Raport projektu z przedmiotu Inteligencja Obliczeniowa}
 \author{Krzysztof Łozowski \\ 255157}
 \date{24 stycznia 2018}
+
 \begin{document}
 
 \maketitle
@@ -49,7 +53,41 @@ W projekcie rozważane są jedynie formuły rozwiązywalne, ponieważ jego głó
 \noindent Wszelkie działania programistyczne opisane w kolejnych działach zostały wykonane przy użyciu środowiska $R$.
 
 \newpage
-\section{Algorytm Genetyczny}
+\section{Wstępna obróbka danych}
 
+Pierwszą poczętą czynnością był wybór danych, które zostaną wykorzystane w projekcie. Wybraną paczką danych została paczka o nazwie \textbf{CBS\_k3\_n100\_m403\_b10} dostępna pod adresem \url{http://www.cs.ubc.ca/~hoos/SATLIB/benchm.html}. Pliki te znajdują się w folderze B403. \\
+Następną czynnością do wykonania była obróbka tych danych. Proces ten został podzielony na następujące etapy:
+\begin{enumerate}
+  \item Usunięcie zbędnych wierszy z plików
+  \item Usunięcie liczby 0 z końca każdego wiersza
+  \item Podział danych na kolumny z indeksami oraz wartościami logicznymi
+  \item Zamiana minusów na poprawione wartości logiczne
+\end{enumerate}
+
+Dwa pierwsze podpunkty związane były stricte z operacjami na plikach, a ponieważ było ich aż 1000, to ręczna obróbka każdego z nich zajęłaby zbyt wiele czasu. \\
+Można było jednak zauważyć, że w każdym z tych plików do wykonania były dokładnie te same operacje, więc przy użyciu komend w edytorze VIM:
+\begin{lstlisting}[language=bash]
+	:set hidden
+	:args *
+	:argdo %s/  0//g
+	:argdo 1,4d
+	:wa
+\end{lstlisting}
+
+\noindent Pliki te miały zagwarantowaną rozwiązywalność. W celu wygenerowania mniejszych plików (wprawdzie bez gwarancji rozwiązywalności, lecz zapewne część będzie rozwiązywalna), zostały stworzone odpowiednie foldery
+\begin{lstlisting}[language=bash]
+$ echo B10/ B20/ B50/ B100/ B200/ B300/ | xargs -n 1 cp -rf B403/
+\end{lstlisting}
+a następnie przeprowadzono redukcję do odpowiedniej liczby literałów
+\begin{lstlisting}[language=bash]
+	:set hidden
+	:args B10/*
+	:argdo 11,403d
+	:wa
+\end{lstlisting}
+Operacje dla pozostałych folderów były niemal identyczne, nie ma sensu powielać poleceń.
+\newpage
+\section{Algorytm genetyczny}
+Dla naszych danych 
 
 \end{document}
