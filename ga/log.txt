@@ -66,3 +66,66 @@ GA Results
   Best Solution : 0 0 0 0 0 0 0 1 0 0 0 1 1 0 1 0 0 0 0 1 
 Time difference of 39.86838 secs
 [1] "200.dimacs"
+[1] -195
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 100
+  Number of Generations = 100
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 1 0 1 1 1 0 0 0 0 0 1 0 0 0 1 
+Time difference of 1.831965 mins
+[1] "300.dimacs"
+[1] -298
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 100
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 
+Time difference of 4.528744 mins
+[1] "400.dimacs"
+[1] -394
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 200
+  Number of Generations = 200
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 1 0 1 1 0 1 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 0 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 1 0 0 0 1 1 1 1 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 1 
+Time difference of 16.28383 mins
+[1] "403.cnf"
+[1] -398
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 200
+  Number of Generations = 200
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 1 0 0 1 0 1 0 1 1 1 1 0 1 1 0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 
+Time difference of 12.86907 mins
