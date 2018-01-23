@@ -43,20 +43,20 @@ fitnessFunc <- function(chromosome = c(), DT = cleanDataFrame){
   return(value)
 }
 
-time_table = rep(0,1000)
+time_table = rep(0,10)
 failure_counter = 0
 for(i in 0:999){
   iterator = toString(i)
-  file_string = paste("B50/CBS_k3_n100_m403_b10_",iterator,".cnf", sep="")
+  file_string = paste("B403/CBS_k3_n100_m403_b10_",iterator,".cnf", sep="")
   print(file_string)
   data10 = read.table(file_string)
   cleanDataFrame = cleanData(data10)
   start.time <- Sys.time()
-  genAlg = rbga.bin(size = 100, popSize = 10 , iters = 20, mutationChance = 0.05, elitism = T, evalFunc = fitnessFunc)
+  genAlg = rbga.bin(size = 100, popSize = 400 , iters = 400, mutationChance = 0.05, elitism = T, evalFunc = fitnessFunc)
   end.time <- Sys.time()
   time.taken <- end.time - start.time
   print(tail(genAlg$best, 1))
-  if(tail(genAlg$best, 1) == -50){
+  if(tail(genAlg$best, 1) == -403){
     summary(genAlg, echo = TRUE)
     print(time.taken)
     time_table[i+1] = time.taken
@@ -66,11 +66,12 @@ for(i in 0:999){
   else{
     print("Nie osiągnięto maximum")
     failure_counter = failure_counter + 1
+    print(time.taken)
   }
 }
 
 print("Liczba prawidłowych wyników")
-correct_answers_counter = 1000 - failure_counter
+correct_answers_counter = 10 - failure_counter
 print(correct_answers_counter)
 print("Liczba nieprawidłowych wyników")
 print(failure_counter)

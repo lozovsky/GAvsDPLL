@@ -52,7 +52,7 @@ for(i in 0:999){
   data10 = read.table(file_string)
   cleanDataFrame = cleanData(data10)
   start.time <- Sys.time()
-  genAlg = rbga.bin(size = 100, popSize = 10 , iters = 20, mutationChance = 0.05, elitism = T, evalFunc = fitnessFunc)
+  genAlg = rbga.bin(size = 100, popSize = 50 , iters = 20, mutationChance = 0.05, elitism = T, evalFunc = fitnessFunc)
   end.time <- Sys.time()
   time.taken <- end.time - start.time
   print(tail(genAlg$best, 1))

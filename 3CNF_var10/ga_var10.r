@@ -43,37 +43,19 @@ fitnessFunc <- function(chromosome = c(), DT = cleanDataFrame){
   return(value)
 }
 
-time_table = rep(0,1000)
-failure_counter = 0
-for(i in 0:999){
-  iterator = toString(i)
-  file_string = paste("B50/CBS_k3_n100_m403_b10_",iterator,".cnf", sep="")
+executeAlogithm <- function(file_string){
   print(file_string)
   data10 = read.table(file_string)
-  cleanDataFrame = cleanData(data10)
+  cleanDataFrame <<- cleanData(data10)
   start.time <- Sys.time()
-  genAlg = rbga.bin(size = 100, popSize = 10 , iters = 20, mutationChance = 0.05, elitism = T, evalFunc = fitnessFunc)
+  genAlg = rbga.bin(size = 10, popSize = 20 , iters = 20, mutationChance = 0.05, elitism = T, evalFunc = fitnessFunc)
   end.time <- Sys.time()
   time.taken <- end.time - start.time
   print(tail(genAlg$best, 1))
-  if(tail(genAlg$best, 1) == -50){
-    summary(genAlg, echo = TRUE)
-    print(time.taken)
-    time_table[i+1] = time.taken
-    print("--------------------------------------------")
-    print("--------------------------------------------")
-  }
-  else{
-    print("Nie osiągnięto maximum")
-    failure_counter = failure_counter + 1
-  }
+  summary(genAlg, echo = TRUE)
+  print(time.taken)
 }
 
-print("Liczba prawidłowych wyników")
-correct_answers_counter = 1000 - failure_counter
-print(correct_answers_counter)
-print("Liczba nieprawidłowych wyników")
-print(failure_counter)
-avg_time = sum(time_table)/correct_answers_counter
-print("Średni czas wykonania")
-print(avg_time)
+executeAlogithm("clause10.dimacs")
+executeAlogithm("clause20.dimacs")
+executeAlogithm("clause50.dimacs")

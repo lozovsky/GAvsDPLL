@@ -1,0 +1,514 @@
+[1] "B300/CBS_k3_n100_m403_b10_0.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_1.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_2.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_3.cnf"
+[1] -293
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_4.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_5.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_6.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_7.cnf"
+[1] -293
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_8.cnf"
+[1] -298
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_9.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_10.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_11.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_12.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_13.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_14.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_15.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_16.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_17.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_18.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_19.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_20.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_21.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_22.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_23.cnf"
+[1] -291
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_24.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_25.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_26.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_27.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_28.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_29.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_30.cnf"
+[1] -292
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_31.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_32.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_33.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_34.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_35.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_36.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_37.cnf"
+[1] -293
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_38.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_39.cnf"
+[1] -293
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_40.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_41.cnf"
+[1] -293
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_42.cnf"
+[1] -293
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_43.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_44.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_45.cnf"
+[1] -298
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_46.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_47.cnf"
+[1] -291
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_48.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_49.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_50.cnf"
+[1] -292
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_51.cnf"
+[1] -298
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_52.cnf"
+[1] -300
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 1 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 1 
+Time difference of 1.621056 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B300/CBS_k3_n100_m403_b10_53.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_54.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_55.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_56.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_57.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_58.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_59.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_60.cnf"
+[1] -293
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_61.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_62.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_63.cnf"
+[1] -293
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_64.cnf"
+[1] -293
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_65.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_66.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_67.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_68.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_69.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_70.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_71.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_72.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_73.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_74.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_75.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_76.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_77.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_78.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_79.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_80.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_81.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_82.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_83.cnf"
+[1] -292
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_84.cnf"
+[1] -298
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_85.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_86.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_87.cnf"
+[1] -298
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_88.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_89.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_90.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_91.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_92.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_93.cnf"
+[1] -293
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_94.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_95.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_96.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_97.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_98.cnf"
+[1] -298
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_99.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_100.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_101.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_102.cnf"
+[1] -291
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_103.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_104.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_105.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_106.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_107.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_108.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_109.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_110.cnf"
+[1] -293
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_111.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_112.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_113.cnf"
+[1] -292
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_114.cnf"
+[1] -298
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_115.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_116.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_117.cnf"
+[1] -298
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_118.cnf"
+[1] -293
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_119.cnf"
+[1] -293
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_120.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_121.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_122.cnf"
+[1] -293
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_123.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_124.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_125.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_126.cnf"
+[1] -300
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 1 1 0 0 0 0 1 1 1 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 1 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 
+Time difference of 2.519976 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B300/CBS_k3_n100_m403_b10_127.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_128.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_129.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_130.cnf"
+[1] -292
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_131.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_132.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_133.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_134.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_135.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_136.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_137.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_138.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_139.cnf"
+[1] -293
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_140.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_141.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_142.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_143.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_144.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_145.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_146.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_147.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_148.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_149.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_150.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_151.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_152.cnf"
+[1] -291
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_153.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_154.cnf"
+[1] -297
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_155.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_156.cnf"
+[1] -294
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_157.cnf"
+[1] -298
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_158.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_159.cnf"
+[1] -295
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_160.cnf"
+[1] -296
+[1] "Nie osiągnięto maximum"
+[1] "B300/CBS_k3_n100_m403_b10_161.cnf"

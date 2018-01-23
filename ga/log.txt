@@ -1,0 +1,68 @@
+[1] "10.dimacs"
+[1] -10
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 10
+  Number of Generations = 20
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 1 0 0 
+Time difference of 0.140135 secs
+[1] "--------------------------------------------"
+[1] "20.dimacs"
+[1] -20
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 20
+  Number of Generations = 40
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 0 1 1 0 0 0 0 0 0 
+Time difference of 1.36323 secs
+[1] "--------------------------------------------"
+[1] "50.dimacs"
+[1] -50
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 50
+  Number of Generations = 100
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 1 0 1 1 0 0 0 
+Time difference of 18.94206 secs
+[1] "--------------------------------------------"
+[1] "100.dimacs"
+[1] -97
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 50
+  Number of Generations = 100
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 1 0 0 0 1 1 0 1 0 0 0 0 1 
+Time difference of 39.86838 secs
+[1] "200.dimacs"

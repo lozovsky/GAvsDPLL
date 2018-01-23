@@ -47,7 +47,7 @@ time_table = rep(0,1000)
 failure_counter = 0
 for(i in 0:999){
   iterator = toString(i)
-  file_string = paste("B50/CBS_k3_n100_m403_b10_",iterator,".cnf", sep="")
+  file_string = paste("B200/CBS_k3_n100_m403_b10_",iterator,".cnf", sep="")
   print(file_string)
   data10 = read.table(file_string)
   cleanDataFrame = cleanData(data10)
@@ -56,7 +56,7 @@ for(i in 0:999){
   end.time <- Sys.time()
   time.taken <- end.time - start.time
   print(tail(genAlg$best, 1))
-  if(tail(genAlg$best, 1) == -50){
+  if(tail(genAlg$best, 1) == -200){
     summary(genAlg, echo = TRUE)
     print(time.taken)
     time_table[i+1] = time.taken

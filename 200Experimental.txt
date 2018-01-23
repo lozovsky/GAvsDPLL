@@ -1,0 +1,2299 @@
+[1] "B200/CBS_k3_n100_m403_b10_0.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 1 1 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 1 0 
+Time difference of 1.112465 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_1.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 0 0 0 1 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 1 1 0 0 1 1 0 1 1 0 1 0 1 0 0 1 0 0 0 1 0 0 0 
+Time difference of 1.061034 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_2.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 1 0 1 1 0 0 1 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+Time difference of 1.291459 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_3.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 1 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 1 1 1 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 
+Time difference of 1.940884 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_4.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 1 1 1 0 1 0 1 0 0 1 1 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 0 0 1 1 0 1 0 1 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 1 0 0 1 0 0 1 0 0 1 0 0 0 0 
+Time difference of 1.225094 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_5.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 1 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+Time difference of 1.22145 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_6.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_7.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_8.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 1 1 0 0 0 0 0 1 1 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 
+Time difference of 1.286091 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_9.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_10.cnf"
+[1] -197
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_11.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 1 0 1 0 0 1 0 0 0 1 0 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 
+Time difference of 2.438293 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_12.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 
+Time difference of 1.58127 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_13.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_14.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_15.cnf"
+[1] -197
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_16.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_17.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 1 0 0 1 1 1 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 
+Time difference of 1.23673 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_18.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_19.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 1 1 0 1 0 0 0 0 0 1 0 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 1 1 
+Time difference of 1.626526 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_20.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_21.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 
+Time difference of 1.187133 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_22.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_23.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_24.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_25.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_26.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_27.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_28.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 1 0 1 0 1 0 0 1 0 1 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Time difference of 1.797422 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_29.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+Time difference of 1.653043 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_30.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_31.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_32.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_33.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_34.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 1 1 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 1 0 0 1 0 1 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 
+Time difference of 1.195813 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_35.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_36.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_37.cnf"
+[1] -197
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_38.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 0 1 0 1 0 0 1 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 1 1 0 0 
+Time difference of 1.159174 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_39.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_40.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_41.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_42.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_43.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_44.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 1 1 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 
+Time difference of 1.654504 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_45.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 
+Time difference of 1.27002 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_46.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_47.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_48.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 1 1 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 1 
+Time difference of 1.220993 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_49.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 1 1 1 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 0 
+Time difference of 1.130938 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_50.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_51.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_52.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 1 0 1 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 1 1 0 1 
+Time difference of 1.125139 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_53.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 1 1 0 1 0 0 0 0 0 0 
+Time difference of 1.131069 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_54.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_55.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_56.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_57.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_58.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_59.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_60.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_61.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_62.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 1 0 1 0 1 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 
+Time difference of 2.117032 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_63.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_64.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_65.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_66.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 
+Time difference of 1.087474 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_67.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_68.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_69.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 0 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 1 0 0 0 1 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+Time difference of 1.112261 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_70.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 
+Time difference of 1.507376 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_71.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_72.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_73.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 1 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 
+Time difference of 1.120119 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_74.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_75.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_76.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 1 0 0 0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 1 0 1 0 1 0 1 0 1 1 0 1 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1 
+Time difference of 1.10416 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_77.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 1 
+Time difference of 2.06217 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_78.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_79.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 1 0 0 1 
+Time difference of 1.162569 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_80.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_81.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 1 0 0 0 1 0 1 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 
+Time difference of 1.128472 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_82.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 1 1 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 0 
+Time difference of 1.14302 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_83.cnf"
+[1] -197
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_84.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_85.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 1 0 0 1 1 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 1 0 1 1 1 0 0 0 0 1 1 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 
+Time difference of 2.006814 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_86.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_87.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 1 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 
+Time difference of 1.072537 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_88.cnf"
+[1] -197
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_89.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_90.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_91.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_92.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_93.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_94.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_95.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_96.cnf"
+[1] -197
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_97.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 1 0 0 0 1 0 0 1 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Time difference of 1.083684 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_98.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 1 0 0 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 
+Time difference of 1.180611 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_99.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_100.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 1 1 0 1 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 
+Time difference of 1.10666 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_101.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 1 0 1 0 0 0 1 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 1 1 1 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 0 1 0 
+Time difference of 1.132292 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_102.cnf"
+[1] -197
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_103.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 1 0 0 1 1 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 0 1 1 0 1 0 0 1 
+Time difference of 1.144113 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_104.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_105.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_106.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 1 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 
+Time difference of 1.027242 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_107.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 1 0 0 0 1 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 0 
+Time difference of 1.097898 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_108.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_109.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_110.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_111.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 1 0 0 0 1 1 0 
+Time difference of 2.258849 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_112.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_113.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_114.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_115.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_116.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_117.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 1 0 1 0 1 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+Time difference of 1.11375 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_118.cnf"
+[1] -197
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_119.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_120.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_121.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_122.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_123.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_124.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_125.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 1 1 0 1 1 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Time difference of 1.177309 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_126.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 1 0 0 0 0 0 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 0 0 1 0 1 0 0 0 0 0 0 1 0 0 1 
+Time difference of 1.102768 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_127.cnf"
+[1] -197
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_128.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_129.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 1 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+Time difference of 1.477607 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_130.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_131.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 
+Time difference of 1.290355 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_132.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_133.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_134.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_135.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_136.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_137.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_138.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 1 0 0 0 0 0 1 0 0 1 1 0 1 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 
+Time difference of 1.246991 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_139.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_140.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 1 0 0 0 0 1 0 0 0 0 1 0 1 0 1 0 0 1 0 1 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 
+Time difference of 1.41612 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_141.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 0 0 0 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 
+Time difference of 1.284407 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_142.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 1 0 0 0 1 1 0 0 1 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 0 0 1 1 0 0 1 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Time difference of 1.141488 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_143.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_144.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_145.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_146.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_147.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 1 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 
+Time difference of 1.189284 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_148.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_149.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 0 1 
+Time difference of 1.366003 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_150.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_151.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_152.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_153.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 
+Time difference of 1.034746 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_154.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 1 
+Time difference of 1.110111 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_155.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_156.cnf"
+[1] -196
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_157.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 1 1 1 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0 1 
+Time difference of 1.060886 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_158.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_159.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 1 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 
+Time difference of 1.434807 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_160.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 1 1 
+Time difference of 1.776228 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_161.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_162.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 1 0 1 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+Time difference of 1.095165 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_163.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_164.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_165.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_166.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_167.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_168.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_169.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 0 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 1 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+Time difference of 1.479544 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_170.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 
+Time difference of 2.367227 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_171.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_172.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_173.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_174.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 1 1 0 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 
+Time difference of 1.143908 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_175.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+Time difference of 1.473117 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_176.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 1 1 1 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 1 0 0 0 1 0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 
+Time difference of 1.323042 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_177.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 
+Time difference of 2.044742 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_178.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0 0 1 1 0 1 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 1 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Time difference of 2.262758 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_179.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 1 0 0 1 0 1 0 0 0 0 0 0 
+Time difference of 1.442425 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_180.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 
+Time difference of 1.354221 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_181.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 
+Time difference of 1.235806 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_182.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_183.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 0 1 0 1 0 1 1 0 0 0 0 1 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 0 
+Time difference of 1.191102 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_184.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_185.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 1 0 0 1 1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 
+Time difference of 1.130437 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_186.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_187.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 
+Time difference of 1.447113 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_188.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 1 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 
+Time difference of 1.352224 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_189.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_190.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 1 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 
+Time difference of 1.334247 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_191.cnf"
+[1] -197
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_192.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 1 1 0 0 1 0 0 0 0 0 1 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 1 0 1 1 0 0 0 1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 1 0 
+Time difference of 1.408182 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_193.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 1 0 1 0 1 0 0 0 0 0 
+Time difference of 1.094498 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_194.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_195.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_196.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_197.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_198.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_199.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_200.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 0 0 1 0 1 0 1 0 0 0 1 0 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0 0 
+Time difference of 1.175876 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_201.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_202.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 1 0 0 0 0 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 1 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 
+Time difference of 1.66602 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_203.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 1 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 1 1 
+Time difference of 1.219772 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_204.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 1 1 1 0 
+Time difference of 1.211769 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_205.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_206.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_207.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_208.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 
+Time difference of 1.20488 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_209.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_210.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 0 0 1 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 1 0 1 0 1 0 0 1 1 1 
+Time difference of 1.120549 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_211.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_212.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 
+Time difference of 1.353013 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_213.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_214.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 
+Time difference of 1.456267 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_215.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 1 1 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 1 0 0 1 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Time difference of 1.465786 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_216.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 1 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Time difference of 1.402005 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_217.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_218.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 1 1 0 0 0 1 0 0 0 0 0 
+Time difference of 2.043785 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_219.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_220.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_221.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_222.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+Time difference of 2.204775 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_223.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_224.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_225.cnf"
+[1] -197
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_226.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_227.cnf"
+[1] -197
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_228.cnf"
+[1] -197
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_229.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 1 0 0 1 0 0 0 0 1 0 0 1 1 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 0 1 1 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 
+Time difference of 1.118514 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_230.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_231.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 
+Time difference of 1.007253 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_232.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_233.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_234.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 1 0 1 1 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 0 1 0 0 0 1 0 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+Time difference of 1.061224 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_235.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_236.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_237.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 0 1 1 0 0 1 0 1 0 0 0 1 
+Time difference of 1.07031 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_238.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 1 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 0 0 0 0 1 0 0 
+Time difference of 1.033272 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_239.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_240.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 0 1 0 0 
+Time difference of 1.093543 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_241.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 1 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 1 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 
+Time difference of 1.07475 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_242.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_243.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_244.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_245.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_246.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 1 0 1 0 0 1 0 0 0 0 0 1 0 1 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 
+Time difference of 1.033435 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_247.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+Time difference of 1.093046 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_248.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 1 0 0 0 1 0 0 0 1 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 1 0 0 1 0 0 0 
+Time difference of 1.046551 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_249.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+Time difference of 1.051843 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_250.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_251.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 1 1 1 1 0 1 1 0 
+Time difference of 1.119239 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_252.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 
+Time difference of 1.104932 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_253.cnf"
+[1] -198
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_254.cnf"
+[1] -199
+[1] "Nie osiągnięto maximum"
+[1] "B200/CBS_k3_n100_m403_b10_255.cnf"
+[1] -200
+GA Settings
+  Type                  = binary chromosome
+  Population size       = 150
+  Number of Generations = 50
+  Elitism               = TRUE
+  Mutation Chance       = 0.05
+
+Search Domain
+  Var 1 = [,]
+  Var 0 = [,]
+
+GA Results
+  Best Solution : 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 1 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 1 0 0 0 1 1 1 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 1 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Time difference of 1.108229 mins
+[1] "--------------------------------------------"
+[1] "--------------------------------------------"
+[1] "B200/CBS_k3_n100_m403_b10_256.cnf"

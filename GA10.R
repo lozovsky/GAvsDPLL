@@ -59,10 +59,8 @@ for(i in 0:999){
   if(tail(genAlg$best, 1) == -10){
     summary(genAlg, echo = TRUE)
     print(time.taken)
-    print("--------------------------------------------")
     time_table[i+1] = time.taken
-    print("Average wait time")
-    print(sum(time_table)/(i+1))
+    print("--------------------------------------------")
     print("--------------------------------------------")
   }
   else{
@@ -72,6 +70,11 @@ for(i in 0:999){
 }
 
 print("Liczba prawidłowych wyników")
-print(1000-failure_counter)
+correct_answers_counter = 1000 - failure_counter
+print(correct_answers_counter)
 print("Liczba nieprawidłowych wyników")
 print(failure_counter)
+avg_time = sum(time_table)/correct_answers_counter
+print("Średni czas wykonania")
+print(avg_time)
+
